@@ -1,0 +1,98 @@
+.navbar.navbar-expand-lg.bg-body-tertiary{
+    background: rgb(2,0,36);
+    background: -moz-linear-gradient(16deg, rgba(2,0,36,1) 18%, rgba(9,121,54,1) 55%, rgba(0,212,255,1) 100%);
+    background: -webkit-linear-gradient(16deg, rgba(2,0,36,1) 18%, rgba(9,121,54,1) 55%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(16deg, rgba(2,0,36,1) 18%, rgba(9,121,54,1) 55%, rgba(0,212,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#00d4ff",GradientType=1);;
+}
+
+section.banner{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+        ), url(/img/ba3.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -msn-background-size: cover;
+
+}
+section.plaza25Mayo{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+        ), url(/img/Plaza_de_Mayo.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -msn-background-size: cover;
+}
+section.plazaCongreso{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+        ), url(/img/plazaCongreso.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -msn-background-size: cover;
+}
+section.plazaIrlanda{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+        ), url(/img/plaza-irlandajpg.webp);
+    height: 90vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -msn-background-size: cover;
+}
+
+h1.intro{
+    font-size: 5rem;
+    padding-top: 15rem;
+}
+
+h2.intro{
+    padding-top: 10rem;
+    font-size: 2rem;
+}
+
+p{
+    top: 5rem;
+    position: relative;
+    color: white;
+}
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem !important;
+}
+.text1{
+    font-size: 1.5rem;
+}
+.volver{
+    font-size: 2rem;
+    position: relative;
+    text-align: right;
+    top: 5rem;
+}
